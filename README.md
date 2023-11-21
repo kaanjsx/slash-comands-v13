@@ -1,4 +1,2 @@
-# slash-comands-v13
+# Discord Slash Commands :star: 
 Slash Commands Bots Version V13
-
-Discord: https://discord.gg/vdnUgq5H
